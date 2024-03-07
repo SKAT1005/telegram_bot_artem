@@ -1,0 +1,124 @@
+{
+  "_": "Message",
+  "id": 159,
+  "peer_id": {
+    "_": "PeerUser",
+    "user_id": 5921521143
+  },
+  "date": "2024-03-07T17:12:15+00:00",
+  "message": "\u041f\u0435\u0440\u0435\u0434 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0431\u043e\u0442\u0430 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u043f\u043e\u0434\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f \u043d\u0430 \u043a\u0430\u043d\u0430\u043b @naebnet. \u041c\u044b \u0441\u0434\u0435\u043b\u0430\u043b\u0438 \u0442\u0430\u043a, \u0447\u0442\u043e\u0431\u044b \u043d\u0435 \u0434\u043e\u043f\u0443\u0441\u043a\u0430\u0442\u044c \u0431\u043e\u0442\u043e\u0432 \u0438 \u0447\u0442\u043e\u0431\u044b \u0432\u044b \u043c\u043e\u0433\u043b\u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f \u043e\u0431 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f\u0445 \u0447\u0435\u0440\u0435\u0437 \u043a\u0430\u043d\u0430\u043b.",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": false,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "from_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaWebPage",
+    "webpage": {
+      "_": "WebPage",
+      "id": 3463749424948837867,
+      "url": "https://t.me/+XR8CCzjgYFU1Yjdi",
+      "display_url": "t.me/+XR8CCzjgYFU1Yjdi",
+      "hash": 0,
+      "has_large_media": false,
+      "type": "telegram_channel",
+      "site_name": "Telegram",
+      "title": "NN",
+      "description": "\u041c\u0435\u0434\u0438\u0430 \u043f\u0440\u043e \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442, \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0438 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c\n\n\u0421\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u043e: @nnmanager\n\u042e\u0442\u0443\u0431: https://youtube.com/naebnet",
+      "photo": {
+        "_": "Photo",
+        "id": 5312545581178138989,
+        "access_hash": -2029353505043205921,
+        "file_reference": "AGXp9XA3GgjyE4wos9XVA0w3aNDv",
+        "date": "2021-02-24T18:52:16+00:00",
+        "sizes": [
+          {
+            "_": "PhotoSize",
+            "type": "a",
+            "w": 160,
+            "h": 160,
+            "size": 3428
+          },
+          {
+            "_": "PhotoSize",
+            "type": "b",
+            "w": 320,
+            "h": 320,
+            "size": 8352
+          },
+          {
+            "_": "PhotoSize",
+            "type": "c",
+            "w": 640,
+            "h": 640,
+            "size": 18058
+          },
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "ASgov0UUV5RuFFFFABRRRQAyWVIYy7nAH61RlNwGF1IIwB9yNicj8B3rRoq4yUehLVzN/wBIml7efj/gMQ/xpYhcqxtYzGMffkXJI/PvWjRV+16WDlGRRLDGEQcD9aKfRWTdxhRRRSGFFFFABRRRQB8="
+          }
+        ],
+        "dc_id": 2,
+        "has_stickers": false,
+        "video_sizes": []
+      },
+      "embed_url": null,
+      "embed_type": null,
+      "embed_width": null,
+      "embed_height": null,
+      "duration": null,
+      "author": null,
+      "document": null,
+      "cached_page": null,
+      "attributes": []
+    },
+    "force_large_media": false,
+    "force_small_media": false,
+    "manual": false,
+    "safe": true
+  },
+  "reply_markup": {
+    "_": "ReplyInlineMarkup",
+    "rows": [
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonCallback",
+            "text": "\u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c",
+            "data": "c3RhcnQ=",
+            "requires_password": false
+          }
+        ]
+      }
+    ]
+  },
+  "entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 58,
+      "length": 8,
+      "url": "https://t.me/+XR8CCzjgYFU1Yjdi"
+    }
+  ],
+  "views": null,
+  "forwards": null,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null
+}
