@@ -19,7 +19,7 @@ os.environ["DJANGO_ALLOW_ASYNC_UNSAFE"] = "true"
 django.setup()
 from app.models import API, User, Orders
 
-API_TOKEN = '6825127387:AAGZbujn5d0wdr9eyIXG3E3Yfr8tKxCC13c'
+API_TOKEN = '6719634132:AAGDlhzfTQT3KxP-iLAuedZuM5NNyezzjY0'
 bot = telebot.TeleBot(API_TOKEN)
 admins_id = ['595650100', '1288389919']
 loop = asyncio.new_event_loop()
